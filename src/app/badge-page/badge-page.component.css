@@ -1,0 +1,7 @@
+.image {
+  height: 80em;
+  background-size: cover;
+  width: auto;
+  background-image: url("https://cdn.jsdelivr.net/gh/TheWriteApp/angular-ivy-7ld9mv@new/src/assets/fond.jpg");
+  background-position: 50% 50%;
+}
