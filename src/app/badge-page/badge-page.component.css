@@ -5,3 +5,14 @@
   background-image: url("https://cdn.jsdelivr.net/gh/TheWriteApp/angular-ivy-7ld9mv@new/src/assets/fond.jpg");
   background-position: 50% 50%;
 }
+
+.center {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-family: Lato;
+}
